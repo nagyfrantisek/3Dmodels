@@ -1,3 +1,12 @@
+/*
+    OpenSCAD Script Name: D-shaft knob generator
+    Author: Frantisek Nagy - hello@nagy.sh
+    Date: 2025-02-23
+    License: CC BY-NC-SA 4.0
+
+    Copyright (c) 2025 Frantisek Nagy
+*/
+
 // https://makerworld.com/en/models/1142338-d-shaft-knob-generator
 
 /* [Knob] */
